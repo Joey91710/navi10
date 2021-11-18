@@ -15,7 +15,7 @@
 			bindings = <
 &kp INSERT &kp HOME &kp PAGE_UP
 &kp DELETE &kp END  &kp PAGE_DOWN
-           &kp UP
+&kp NONE   &kp UP   &kp NONE
 &kp LEFT   &kp DOWN &kp RIGHT
 			>;
 		};
